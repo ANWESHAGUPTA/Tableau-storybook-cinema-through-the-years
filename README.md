@@ -16,7 +16,7 @@ In this project, we leverage a collection of comprehensive and diverse datasets,
 
 **Production Impact:** Explore the correlation between production rates and box office revenues, unraveling the relationship between cinematic success and film output.
 
-**Dispelling Myths: ** Through engaging treemaps, animation charts, and scatterplots, our visualizations challenge the notion that larger budgets directly translate to higher footfall, offering a nuanced perspective on cinematic success.
+**Dispelling Myths:** Through engaging treemaps, animation charts, and scatterplots, our visualizations challenge the notion that larger budgets directly translate to higher footfall, offering a nuanced perspective on cinematic success.
 
 
 To embark on this cinematic journey and delve into the captivating tableau visualizations, simply follow this Tableau Public Link and experience the evolution of American movies' success and impact across the years.
