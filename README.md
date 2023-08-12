@@ -2,6 +2,8 @@
 
 Welcome to the Tableau Storybook: Cinema Through the Years! This repository showcases a captivating tableau story that delves into the fascinating world of American movies, exploring their revenue and footfall from both domestic and international perspectives.
 
+![Tableau-dashboard](https://github.com/ANWESHAGUPTA/Tableau-storybook-cinema-through-the-years/assets/39123992/1c9da9c5-32b4-4088-ba39-818aab1c2968)
+
 ## About the Project
 
 In this project, we leverage a collection of comprehensive and diverse datasets, employing advanced data-wrangling techniques to uncover intricate insights within the realm of American films' financial performance and popularity. Through the power of Tableau visualizations, we present a compelling analysis that sheds light on various aspects of the film industry.
