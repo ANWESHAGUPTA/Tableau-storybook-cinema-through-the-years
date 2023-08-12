@@ -32,4 +32,4 @@ Thank you for joining us on this exploration of *Cinema Through the Years*!
 
 ## Disclaimer
 
-This project is for educational and informational purposes. All data used is fictional, and any resemblance to actual movies or events is purely coincidental.
+This project is for educational and informational purposes. All data used are publicly available on Kaggle.
